@@ -1,0 +1,88 @@
+/*!
+  * Theme: ThePRO
+  * Description: Personal Portfolio Wordpress Theme
+  * Author: ThemeREC
+  * Author URI:	https://www.templatemonster.com/authors/themerec/
+  * Version: v1.0.0
+  * License: TemplateMonster Website Templates Licenses: https://www.templatemonster.com/licenses
+  */
+
+/* 
+  ====================
+    SINGLE PORTFOLIO
+  ====================
+*/
+
+.music-frame iframe {
+     width: 100%;
+}
+
+/* 
+  =============
+    PORTFOLIO
+  =============
+*/
+.portfolio-section .single-item {
+     margin-bottom: 30px;
+}
+.portfolio-section .portfolio-title-card {
+     font-weight: 600;
+     text-align: center;
+     margin: 0;
+     margin-top: 13px;
+     line-height: 1.4;
+}
+
+/* 
+  =========
+    TEAM
+  =========
+*/
+.team-section .member-img img {
+  width: 100%;
+}
+.team-section .member-info {
+  border-left-width: 2px;
+  border-left-style: solid;
+  margin-left: 35px;
+  padding-top: 90px;
+  padding-bottom: 5px;
+  padding-left: 22px;
+  padding-right: 10px;
+  margin-top: -75px;
+  position: relative;
+  z-index: 1;
+}
+.team-section .member-name {
+  margin-bottom: 2px;
+}
+.team-section .member-title {
+  font-size: 16px;
+}
+.team-section .member-socialmedia {
+  padding-top: 5px;
+}
+.team-section .member-socialmedia .nav .nav-link {
+  padding: 0;
+  padding-right: 20px;
+  font-size: 16px;
+}
+
+/* 
+  =========
+    WPML
+  =========
+*/
+.wpml-ls-legacy-list-horizontal.wpml-ls-statics-footer {
+  margin-bottom: 0;
+  padding-bottom: 30px;
+}
+
+/* 
+  =============
+    ELEMENTOR
+  =============
+*/
+.table > :not(:first-child) {
+  border: none;
+}
