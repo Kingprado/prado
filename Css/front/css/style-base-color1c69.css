@@ -1,0 +1,184 @@
+.section-title-one span.span{
+color: #0B0840;
+}
+.section-title-one span.span:before{
+background: #0B0840;
+}
+.section-title-one span.span:after{
+background: #0B0840;
+}
+.saas-features .features-item i{
+color: #0B0840;
+}
+.saas-blog .blog-item .entry-content a.read-btn{
+color: #0B0840;
+}
+.back-to-top{
+background: #0B0840;
+}
+.saas-footer .footer-widget .widget.newsletter-widget form .form_gorup .newsletter-btn {
+background: #0B0840;
+}
+.saas-blog .blog-item .entry-content .entry-meta ul li span i {
+color: #0B0840;
+}
+.main-btn{
+background: #0B0840;
+}
+.main-btn:hover, .main-btn:focus{
+background: #0B0840;
+}
+.saas-pricing .pricing-item .title h2.price{
+color: #0B0840;
+}
+.saas-pricing .pricing-tabs .nav-tabs .nav-link.active{
+background: #0B0840;
+}
+.saas-featured-users .user-item .user-button ul li .main-btn:hover{
+border-color: #0B0840;
+color: #0B0840;
+}
+.saas-footer .footer-widget .widget.newsletter-widget .social-link li a{
+background: #0B0840;
+}
+.saas-footer .footer-widget .widget.useful-link-widget ul.widget-link li a:hover{
+color: #0B0840;
+}
+.saas-footer .footer-widget .widget.about-widget p.info a:hover{
+ color: #0B0840;
+}
+.contacts-section .contact-form form .form_group .form_control:focus{
+border-color: #0B0840;
+}
+.contacts-section .contact-information .info-box ul.info-box-list li .contact-info-title{
+color: #0B0840;
+}
+.saas-blog .blog-item .entry-content a.read-btn{
+color: #0B0840;
+}
+.saas-blog .blog-item .entry-content h3:hover, .saas-blog .blog-item .entry-content h3:focus{
+color: #0B0840;
+}
+.saas-blog .blog-item .entry-content .entry-meta ul li span i{
+color: #0B0840;
+}
+.single_input_check:after {
+background: #0B0840;
+}
+.single_radio .single_input:checked + .single_input_label:before, .single_checkbox .single_input:checked + .single_input_label:before{
+border-color: #0B0840;
+}
+.saas-pagination ul li a:hover, .saas-pagination ul li a:focus, .saas-pagination ul li a.active{
+background: #0B0840;
+}
+.user-form-section .user-form form .form_group .main-btn{
+background: #0B0840;
+}
+.user-form-section .user-form form .form_group p a{
+color: #0B0840;
+}
+<!--.user-form-section .user-form form .form_group .form_control{-->
+<!--border: --><!--;-->
+<!--}-->
+.faqs-section .faq-sidebar .widget.contact-widget form .main-btn{
+background: #0B0840;
+}
+.faqs-section .faq-sidebar .widget.contact-widget form .form_group i {
+color: #0B0840;
+}
+.faqs-section .faq-sidebar .widget.contact-widget form .form_group .form_control {
+border: #0B0840;
+}
+.faqs-section .faq-wrapper .faq-title p{
+color: #0B0840;
+}
+.saas-pricing .pricing-item .title h2.price{
+color: #0B0840;
+}
+.saas-pricing .pricing-tabs .nav-tabs .nav-link.active{
+background: #0B0840;
+}
+.saas-featured-users .user-item .user-button ul li .main-btn:hover {
+border-color: #0B0840;
+}
+.saas-project .work-item .work-img a.count{
+color: #0B0840;
+}
+.saas-features .features-item i{
+color: #0B0840;
+}
+.saas-analysis .choose-content-box ul.list li:before{
+color: #0B0840;
+}
+.breadcrumbs-section .breadcrumbs-content ul.breadcrumbs-link li a{
+color: #0B0840;
+}
+.saas-banner .hero-content ul li .video-popup{
+background: #0B0840;
+}
+.saas-banner .hero-content span.span:after{
+background: #0B0840;
+}
+.saas-banner .hero-content span.span{
+color: #0B0840;
+}
+.header-navigation .navbar-close{
+background: #0B0840;
+}
+.header-navigation .navbar-toggler span{
+background-color:#0B0840;
+}
+.header-navigation .nav-container .main-menu ul li:hover > a {
+color: #0B0840;
+}
+.header-navigation .nav-container .main-menu ul li .sub-menu li a:hover{
+background-color:#0B0840;
+}
+.header-navigation .nav-container .nav-push-item .navbar-btn .main-btn.active-btn{
+background: #0B0840;
+}
+.lds-ellipsis span{
+background: #0B0840;
+}
+.page-item.active .page-link{
+background: #0B0840;
+border: #0B0840;
+}
+.page-link{
+color: #0B0840;    
+}
+.page-link:hover{
+color: #0B0840;
+}
+.payment_header {
+    background: #0B0840;
+}
+.content a {
+    background: #0B0840;
+}
+.content a:hover {
+    color: #0B0840;
+}
+.saas-featured-users .user-item .social-box ul.social-link li a.facebook {
+    border: 1px solid #0B0840;
+    color: #0B0840;
+}
+.blog-cat-list li.active {
+    color: #0B0840;
+}
+.saas-banner .hero-content ul li .video-popup:after {
+    background: #0B08408a;
+}
+.base-color {
+    color: #0B0840;
+}
+.saas-footer .footer-widget .widget.newsletter-widget .social-link li a.facebook {
+    background: #0B0840;
+}
+.error-txt a {
+    background-color: #0B0840;
+    border: 1px solid #0B0840;
+}
+.error-txt a:hover {
+    color: #0B0840;
+}
